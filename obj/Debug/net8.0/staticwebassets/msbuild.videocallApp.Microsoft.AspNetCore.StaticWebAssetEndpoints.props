@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/videocallApp/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2146"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 08:46:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/videocallApp/login.xyc3flnohp.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xyc3flnohp"},{"Name":"integrity","Value":"sha256-abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI="},{"Name":"label","Value":"_content/videocallApp/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2146"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 08:46:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/videocallApp/register.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lKBiXEvtCT5PVCdD\u002BaFP8WTq6/A/KOESyBfgQDonqck="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2307"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022lKBiXEvtCT5PVCdD\u002BaFP8WTq6/A/KOESyBfgQDonqck=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 08:46:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/videocallApp/register.o7o8cevg9h.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\register.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o7o8cevg9h"},{"Name":"integrity","Value":"sha256-lKBiXEvtCT5PVCdD\u002BaFP8WTq6/A/KOESyBfgQDonqck="},{"Name":"label","Value":"_content/videocallApp/register.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2307"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022lKBiXEvtCT5PVCdD\u002BaFP8WTq6/A/KOESyBfgQDonqck=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 08:46:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

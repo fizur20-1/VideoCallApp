@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "eLKDpOwK5nopC+SYfT93lmfxJbIzIkPtSNBWRaftel0=",
+  "Source": "videocallApp",
+  "BasePath": "_content/videocallApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "videocallApp\\wwwroot",
+      "Source": "videocallApp",
+      "ContentRoot": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\",
+      "BasePath": "_content/videocallApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\login.html",
+      "SourceId": "videocallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\",
+      "BasePath": "_content/videocallApp",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xyc3flnohp",
+      "Integrity": "abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\register.html",
+      "SourceId": "videocallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\",
+      "BasePath": "_content/videocallApp",
+      "RelativePath": "register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o7o8cevg9h",
+      "Integrity": "lKBiXEvtCT5PVCdD+aFP8WTq6/A/KOESyBfgQDonqck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 08:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI="
+        }
+      ]
+    },
+    {
+      "Route": "login.xyc3flnohp.html",
+      "AssetFile": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 08:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xyc3flnohp"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-abdnVFPHgUdgeEoiWMJNxCXaKaWvAr8mmmVTBTT06DI="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lKBiXEvtCT5PVCdD+aFP8WTq6/A/KOESyBfgQDonqck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 08:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lKBiXEvtCT5PVCdD+aFP8WTq6/A/KOESyBfgQDonqck="
+        }
+      ]
+    },
+    {
+      "Route": "register.o7o8cevg9h.html",
+      "AssetFile": "C:\\Users\\mostafizur\\source\\repos\\videocallApp\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lKBiXEvtCT5PVCdD+aFP8WTq6/A/KOESyBfgQDonqck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 08:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7o8cevg9h"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lKBiXEvtCT5PVCdD+aFP8WTq6/A/KOESyBfgQDonqck="
+        }
+      ]
+    }
+  ]
+}
